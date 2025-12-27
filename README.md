@@ -1,1 +1,1 @@
-* Clone d'un design Spotify *
+**Clone d'un design Spotify**
